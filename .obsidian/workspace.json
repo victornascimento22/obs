@@ -148,19 +148,9 @@
               "icon": "lucide-list",
               "title": "Outline of Big O Notation"
             }
-          },
-          {
-            "id": "2903df5fb885b613",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,13 +165,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "bb98917a2a0ebccb",
+  "active": "3fa0530db7de2ab9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-31 14.45.21.excalidraw.md",
     "Content/Computer Science/Programmming/Algoritms/Big O Notation.md",
+    "Excalidraw/Drawing 2025-03-31 14.45.21.excalidraw.md",
     "Excalidraw",
     "Content/Computer Science/Operational System/Linux/Shell/zsh.md",
     "Untitled.md",
