@@ -13,78 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Projetos/Api - Raspberry.md",
+                "file": "Content/Computer Science/Programmming/Algoritms/Big O Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Api - Raspberry"
-            }
-          },
-          {
-            "id": "753a5bae29bde9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/Gitlab/SSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSH"
-            }
-          },
-          {
-            "id": "bf727cf968285cf5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fc41ae01aca10d0d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "20b8d333f1646bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "certbot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "certbot"
-            }
-          },
-          {
-            "id": "f5b8a670179ae35e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gitlab/SSH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Big O Notation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,14 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/tips obsidian.md"
+                "file": "Content/Computer Science/Programmming/Algoritms/Big O Notation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tips obsidian"
+              "title": "Outline of Big O Notation"
             }
           },
           {
-            "id": "dab53daf27d97b8f",
+            "id": "2903df5fb885b613",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -224,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,49 +174,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf727cf968285cf5",
+  "active": "bb98917a2a0ebccb",
   "lastOpenFiles": [
-    "2025-02-03.md",
-    "Untitled 1.canvas",
-    "obsidian/Linux/Shell Script/Untitled.md",
-    "obsidian/Linux/Shell Script",
+    "Excalidraw/Drawing 2025-03-31 14.45.21.excalidraw.md",
+    "Content/Computer Science/Programmming/Algoritms/Big O Notation.md",
+    "Excalidraw",
+    "Content/Computer Science/Operational System/Linux/Shell/zsh.md",
+    "Untitled.md",
+    "Content/Computer Science/Programmming/Algoritms",
+    "Content/Computer Science/Operational System/Linux/Shell Script/Neovim.md",
+    "Content/Computer Science/Operational System/Linux/Shell",
+    "Content/Computer Science/Operational System/Linux/Shell Script/ZSH",
+    "Content/Ciência da Computação.md",
+    "Content/Computer Science/Operational System/Linux/certbot.md",
+    "Content/Computer Science/Operational System/Linux/certbot.md",
+    "Content/Computer Science/Redes - Networking/Websockets.md",
+    "Content/Computer Science/Redes - Networking/Redes.md",
+    "Content/Programming.md",
+    "Content/Computer Science/Operational System",
+    "Content/Computer Science/Programmming/Git",
+    "Content/Computer Science/Devops/IaC/Terraform.md",
+    "Content/Computer Science/Devops/IaC",
+    "STAGGING/POSTGRES STAGGING.md",
+    "senhas.md",
+    "Pasted image 20250129083103.png.md",
     "Untitled.canvas",
-    "obsidian/N8N/n8n.md",
-    "obsidian/N8N/Importando Módulos.md",
-    "obsidian/Gitlab/Gitlab.md",
-    "obsidian/Computer Science/Redes - Networking/Protocols/Protocols.md",
-    "obsidian/Computer Science/Redes - Networking/Protocols/Websockets/Websocket.md",
-    "obsidian/Computer Science/Redes - Networking/Protocols/Websockets",
-    "obsidian/Computer Science/Database/Postgres/Load Balancer.md",
-    "obsidian/Computer Science/Redes - Networking/Diferences of TCP and HTTP.md",
+    "Content/tips obsidian.md",
+    "Content/Teorema de CAP.md",
+    "Content/Computer Science/Database/Database.md",
+    "Git/Git.md",
+    "Content/Computer Science/Database/Postgres/Postgres Tips.md",
+    "Content/Computer Science/Devops/Docker.md",
+    "Content/Computer Science/Programmming/Languages/Java",
+    "Content/Computer Science/Programmming/Languages/Python",
+    "Content/Computer Science/Devops/SDLC.md",
+    "Content/Computer Science/Programmming/Git/Gitlab/SSH.md",
+    "Content/Computer Science/Programmming/Git/Gitlab/Gitlab.md",
+    "Content/Computer Science/Operational System/Linux/Vim.md",
+    "Content/Computer Science/Operational System/Linux/systemd.md",
+    "Content/Computer Science/Devops/Kubernetes",
     "Pasted image 20250129083103.png",
-    "obsidian/Projetos/Api - Raspberry.md",
-    "obsidian/Automations",
-    "obsidian/Reunião.md",
-    "obsidian/Gitlab/SSH.md",
-    "obsidian/Ciência da Computação.md",
-    "obsidian/N8N",
-    "obsidian/certbot.md",
-    "obsidian/Gitlab",
-    "obsidian/Projetos/PLANILHA DE CUSTOS..md",
-    "obsidian/Devops/SDLC.md",
-    "obsidian/Programming.md",
-    "obsidian/Computer Science/Programmming/Languages/Golang/Packaging.md",
-    "obsidian/Computer Science/Programmming/Languages/Golang/Go.md",
-    "obsidian/Computer Science/Programmming/Languages/Golang/Packaging 1.md",
-    "obsidian/Computer Science/Database/Database.md",
-    "obsidian/Linux/Ubuntu.md",
-    "Go/API-RASPBERRY.md",
-    "Go/Golang.md",
-    "Sistemas Operacionais.md",
-    "obsidian/Projetos",
-    "obsidian/Computer Science/Programmming/Languages/Golang",
-    "obsidian/Computer Science/Programmming/Languages",
-    "obsidian/Computer Science/Programmming",
-    "Go",
+    "Untitled 1.canvas",
     "obsidian/Untitled.canvas"
   ]
 }
